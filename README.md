@@ -14,13 +14,6 @@
 
 ---
 
-📌 Projects  
-🔹 [Project 1](https://github.com/yourusername/project1) - Brief description of the project  
-🔹 [Project 2](https://github.com/yourusername/project2) - Brief description of the project  
-🔹 [Project 3](https://github.com/yourusername/project3) - Brief description of the project  
-
----
-
 📫 Contact Me  
 - GitHub: https://github.com/pride767  
 - Email: tom.herney@mail.ru  
